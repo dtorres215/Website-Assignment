@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Month Name</title>
+</head>
+<body>
+  <h1>Month Name</h1>
+  <ul>
+    <li><a href="january.html">January</a></li>
+    <li><a href="february.html">February</a></li>
+    <li><a href="march.html">January</a></li>
+    <li><a href="april.html">February</a></li> <li>
+    <li><a href="may.html">January</a></li>
+    <li><a href="june.html">February</a></li>
+    <li><a href="july.html">January</a></li>
+    <li><a href="august.html">February</a></li>
+    <li><a href="september.html">January</a></li>
+    <li><a href="october.html">February</a></li>
+    <li><a href="november.html">January</a></li>
+    <li><a href="december.html">February</a></li>
+  </ul>
+  <table>
+    <!-- Calendar table for the specific month -->
+  </table>
+</body>
+</html>
